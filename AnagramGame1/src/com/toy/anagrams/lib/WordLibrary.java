@@ -73,6 +73,11 @@ public abstract class WordLibrary {
      * @param idx index of the word guessed
      * @param userGuess the user's guess for the actual word
      * @return true if the guess was correct; false otherwise
+     * 
+     * 
+     * 
+     * bghdghfdtguyhdgchdghc
+     * biream
      */
     public abstract boolean isCorrect(int idx, String userGuess);
 }
